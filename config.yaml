@@ -39,6 +39,16 @@ disqusShortname: toha-example-site
 # Enable global emoji support
 enableEmoji: true
 
+# Add output for search functionality
+outputs:
+  home:
+  - HTML
+  - JSON
+  - RSS
+  page:
+  - HTML
+  - RSS
+
 # Site parameters
 params:
   # Background image of the landing page
