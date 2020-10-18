@@ -95,7 +95,7 @@ params:
     enable: true
 ```
 
-You can just copy the content for `config.yaml` files from `theme/toha/exampleSite/config.yaml`.
+You can just copy the content for `config.yaml` files from `themes/toha/exampleSite/config.yaml`.
 
 ### Usage
 
